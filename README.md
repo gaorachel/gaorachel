@@ -1,11 +1,21 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaorachel&layout=compact&hide=html&theme=transparent&border_color=ffffff00&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaorachel&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=888)
 
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gaorachel&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaorachel&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=888)
+
+
+
+<!-- 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@gaorachel&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=fff) -->
 
 
 
 <!--
 source code: https://github.com/anuraghazra/github-readme-stats
+-->
+
+<!--
+achieve
+&hide=html
 
 **gaorachel/gaorachel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
