@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaorachel&custom_title=My+GitHub+Stats&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=888)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaorachel&custom_title=GitHub+Stats&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=888)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaorachel&custom_title=My+Programming+Languages&layout=compact&theme=transparent&border_color=ffffff00&title_color=fff&text_color=888&exclude_repo=advanced-css-course,css-course,react-course,javascript-course,typescript-course,nodejs-course)
 
